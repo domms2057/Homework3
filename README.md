@@ -1,4 +1,4 @@
-# Unique Word Analyzer for Books
+# Total Unique Words Analyzer for Books
 This Python script analyzes two books and determines which author used more unique words in their text. In this case, we compare "Crime and Punishment" by Fyodor Dostoevsky and "Moby Dick" by Herman Melville.
 
 ## Project Overview
